@@ -17,3 +17,6 @@ Here, my attempt with this repository is to take one single signal and denoise i
 3. Then, we threshold the noise in the wave
 
 4. Then from the nth scale wave, we reobtain the wave to get a denoised one.
+
+# Addon
+My code has more stuff like Discrete Fourier Transformation calculation of the wave and charts for the same
