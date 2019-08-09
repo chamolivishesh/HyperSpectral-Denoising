@@ -18,5 +18,5 @@ Here, my attempt with this repository is to take one single signal and denoise i
 
 4. Then from the nth scale wave, we reobtain the wave to get a denoised one.
 
-# Addon
+# Note
 My code has more stuff like Discrete Fourier Transformation calculation of the wave and charts for the same
