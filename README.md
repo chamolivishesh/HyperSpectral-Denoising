@@ -8,6 +8,7 @@ Here, my attempt with this repository is to take one single signal and denoise i
 # Pre-requisite
 1. Qt - Cross-Platform Development Tool with C++
 2. Qt MinGW Kit
+3. Qt Charts
 
 # How we do it?
 1. We have a file that has all the values for the single wave of the signal. We import all the values in an array
