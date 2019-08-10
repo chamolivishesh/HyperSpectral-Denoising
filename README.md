@@ -19,4 +19,5 @@ Here, my attempt with this repository is to take one single signal and denoise i
 4. Then from the nth scale wave, we reobtain the wave to get a denoised one.
 
 # Note
-My code has more stuff like Discrete Fourier Transformation calculation of the wave and charts for the same
+1. In the main function, there is a string pointer "filename" which has the path to the input file for wave values (I have written <**add your file path**> there. That is the parameter where you have to put the location of the file in your computer.
+2. There is a function **InputWave(const char* filename)** the body of which is formatted to input the values according to the format of the file that I have to take the values from. You might have to make changes in that function so that each value is **"push_back"**-ed into the **mainwave** vector.
